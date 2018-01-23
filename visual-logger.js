@@ -1,4 +1,4 @@
-var errorLogger = (function(){
+var visualLogger = (function(){
 	var overlay, toggle_btn, gaper, orgBodyPosition
 	_this = {};
 
