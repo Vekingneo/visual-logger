@@ -32,7 +32,7 @@ visualLogger.init();
 
 you enable/disable the console layer by clicking at the console button:
 
-![image](http://github.com/Vekingneo/visual-logger/raw/master/images/visual-logger-pic.jpeg)
+![enabled-visual-logger](http://github.com/Vekingneo/visual-logger/raw/master/images/visual-logger-pic.png)
 	
 
 
