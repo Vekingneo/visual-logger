@@ -70,7 +70,7 @@ var visualLogger = (function(){
 		    'white-space': 'pre-wrap',
 		    overflow: 'auto',
 		    'overflow-wrap': 'break-word',
-		    'z-index': '1000'
+		    'z-index': '99998'
 		}
 
 		overlay.id = 'error_logger_overlay'
@@ -138,7 +138,7 @@ var visualLogger = (function(){
 		    'font-family': 'Menlo, Consolas, monospace',
 		    'font-size': '1.5rem',
 		    'background-color': '#b3ffb3',
-		    'z-index': '9999',
+		    'z-index': '99999',
 		    'border-radius': '7%',
 		    'padding': '0.1rem 0.4rem',
 		    'color': 'green'
